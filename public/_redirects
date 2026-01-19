@@ -1,0 +1,76 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-01-19T15:38:46.715Z
+# These rewrite rules show clean URLs to users while serving .html files
+
+/collections%2F%D7%97%D7%95%D7%9C%D7%A6%D7%95%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A7%D7%A6%D7%A8%D7%95%D7%AA  /collections/חולצות-משחק-קצרות/index.html  200!
+/collections%2F%D7%97%D7%95%D7%9C%D7%A6%D7%95%D7%AA-%D7%A8%D7%98%D7%A8%D7%95  /collections/חולצות-רטרו/index.html  200!
+/collections%2F%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /collections/מונדיאל-2026/index.html  200!
+/cart  /cart.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A8%D7%99%D7%90%D7%9C-%D7%9E%D7%93%D7%A8%D7%99%D7%93-%D7%A9%D7%9C%D7%99%D7%A9%D7%99%D7%AA-2024-2025-copy  /products/חולצת-משחק-ריאל-מדריד-שלישית-2024-2025-copy/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%90%D7%A8%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-ארגנטינה-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%9E%D7%A0%D7%A6%D7%A1%D7%98%D7%A8-%D7%99%D7%95%D7%A0%D7%99%D7%99%D7%98%D7%93-%D7%91%D7%99%D7%AA-2024-2025-copy  /products/חולצת-משחק-מנצסטר-יונייטד-בית-2024-2025-copy/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%9E%D7%A0%D7%A6%D7%A1%D7%98%D7%A8-%D7%99%D7%95%D7%A0%D7%99%D7%99%D7%98%D7%93-%D7%A9%D7%9C%D7%99%D7%A9%D7%99%D7%AA-2024-2025-copy  /products/חולצת-משחק-מנצסטר-יונייטד-שלישית-2024-2025-copy/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94-%D7%91%D7%99%D7%AA-2024-2025-copy  /products/חולצת-משחק-ברצלונה-בית-2024-2025-copy/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%94-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-גרמניה-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A8%D7%99%D7%90%D7%9C-%D7%9E%D7%93%D7%A8%D7%99%D7%93-%D7%97%D7%95%D7%A5-2024-2025-copy  /products/חולצת-משחק-ריאל-מדריד-חוץ-2024-2025-copy/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94-%D7%A9%D7%9C%D7%99%D7%A9%D7%99%D7%AA-2024-2025-copy  /products/חולצת-משחק-ברצלונה-שלישית-2024-2025-copy/index.html  200!
+/products%2F%D7%9E%D7%9B%D7%A0%D7%A1%D7%99%D7%99%D7%9D-%D7%A7%D7%A6%D7%A8%D7%99%D7%9D-%D7%90%D7%A8%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94-%D7%91%D7%99%D7%AA-2025-2026  /products/מכנסיים-קצרים-ארגנטינה-בית-2025-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%91%D7%90%D7%99%D7%99%D7%A8%D7%9F-%D7%9E%D7%99%D7%A0%D7%9B%D7%9F-%D7%A9%D7%9C%D7%99%D7%A9%D7%99%D7%AA-2024-2025-copy-1  /products/חולצת-משחק-באיירן-מינכן-שלישית-2024-2025-copy-1/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94-%D7%97%D7%95%D7%A5-2024-2025-copy  /products/חולצת-משחק-ברצלונה-חוץ-2024-2025-copy/index.html  200!
+/collections%2F%D7%A2%D7%95%D7%A0%D7%AA-2025-26  /collections/עונת-2025-26/index.html  200!
+/products/2007-3  /products/2007-3.html  200!
+/products/1988  /products/1988.html  200!
+/products/2015-1  /products/2015-1.html  200!
+/products/1998-15  /products/1998-15.html  200!
+/products/2006-7  /products/2006-7.html  200!
+/products/2018-4  /products/2018-4.html  200!
+/products/1993  /products/1993.html  200!
+/products/2009  /products/2009.html  200!
+/products/2017-1  /products/2017-1.html  200!
+/products/2012-4  /products/2012-4.html  200!
+/products/2001-3  /products/2001-3.html  200!
+/products/2007-1  /products/2007-1.html  200!
+/collections%2F%D7%9C%D7%99%D7%92%D7%94-%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA  /collections/ליגה-אנגלית/index.html  200!
+/collections%2F%D7%9C%D7%99%D7%92%D7%94-%D7%A1%D7%A4%D7%A8%D7%93%D7%99%D7%AA  /collections/ליגה-ספרדית/index.html  200!
+/collections%2F%D7%9C%D7%99%D7%92%D7%94-%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99%D7%AA  /collections/ליגה-איטלקית/index.html  200!
+/collections%2F%D7%9C%D7%99%D7%92%D7%94-%D7%A6%D7%A8%D7%A4%D7%AA%D7%99%D7%AA  /collections/ליגה-צרפתית/index.html  200!
+/collections%2F%D7%9C%D7%99%D7%92%D7%94-%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%AA  /collections/ליגה-גרמנית/index.html  200!
+/collections%2F%D7%9C%D7%99%D7%92%D7%95%D7%AA-%D7%A0%D7%95%D7%A1%D7%A4%D7%95%D7%AA  /collections/ליגות-נוספות/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A1%D7%A4%D7%A8%D7%93-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-ספרד-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-איטליה-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%99%D7%A4%D7%9F-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-יפן-בית-מונדיאל-2026/index.html  200!
+/pages%2F%D7%A9%D7%90%D7%9C%D7%95%D7%AA-%D7%A0%D7%A4%D7%95%D7%A6%D7%95%D7%AA  /pages/שאלות-נפוצות/index.html  200!
+/pages/track-your-order  /pages/track-your-order.html  200!
+/pages%2F%D7%A6%D7%95%D7%A8-%D7%A7%D7%A9%D7%A8  /pages/צור-קשר/index.html  200!
+/pages%2F%D7%98%D7%91%D7%9C%D7%AA-%D7%9E%D7%99%D7%93%D7%95%D7%AA  /pages/טבלת-מידות/index.html  200!
+/policies/refund-policy  /policies/refund-policy.html  200!
+/policies/terms-of-service  /policies/terms-of-service.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%91%D7%9C%D7%92%D7%99%D7%94-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-בלגיה-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%9C%D7%99%D7%91%D7%A8%D7%A4%D7%95%D7%9C-%D7%91%D7%99%D7%AA-2024-2025-copy  /products/חולצת-משחק-ליברפול-בית-2024-2025-copy/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A0%D7%99%D7%95%D7%A7%D7%90%D7%A1%D7%9C-%D7%99%D7%95%D7%A0%D7%99%D7%99%D7%98%D7%93-%D7%A9%D7%9C%D7%99%D7%A9%D7%99%D7%AA-2024-2025-copy  /products/חולצת-משחק-ניוקאסל-יונייטד-שלישית-2024-2025-copy/index.html  200!
+/collections%2F%D7%9E%D7%9B%D7%A0%D7%A1%D7%99%D7%99%D7%9D-%D7%A7%D7%A6%D7%A8%D7%99%D7%9D  /collections/מכנסיים-קצרים/index.html  200!
+/products/2008-3  /products/2008-3.html  200!
+/products/1994-7  /products/1994-7.html  200!
+/products/1988-2  /products/1988-2.html  200!
+/products/2002-4  /products/2002-4.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%9E%D7%A7%D7%A1%D7%99%D7%A7%D7%95-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-מקסיקו-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%95%D7%99%D7%99%D7%9C%D7%A1-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-ויילס-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A9%D7%91%D7%93%D7%99%D7%94-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-שבדיה-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A4%D7%A8%D7%95-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-פרו-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%9E%D7%A7%D7%A1%D7%99%D7%A7%D7%95-%D7%A9%D7%95%D7%A2%D7%A8-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-מקסיקו-שוער-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A7%D7%95%D7%A1%D7%98%D7%94-%D7%A8%D7%99%D7%A7%D7%94-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-קוסטה-ריקה-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A7%D7%95%D7%9C%D7%95%D7%9E%D7%91%D7%99%D7%94-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-קולומביה-בית-מונדיאל-2026/index.html  200!
+/products%2F%D7%97%D7%95%D7%9C%D7%A6%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7-%D7%A6%D7%99%D7%9C%D7%94-%D7%91%D7%99%D7%AA-%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C-2026  /products/חולצת-משחק-צילה-בית-מונדיאל-2026/index.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# 404 fallback
+/*  /index.html  404

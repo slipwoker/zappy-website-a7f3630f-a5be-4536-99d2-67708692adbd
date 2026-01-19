@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isport-a7f3630f.zappy5.app/sitemap.xml
